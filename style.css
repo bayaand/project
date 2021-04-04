@@ -27,7 +27,7 @@ body{
 .fv-img{
   width: 70%;
   height: 750px;
-  background-image: url(../img/fv.svg);
+  background-image: url(fv.svg);
   background-size: cover;
   position: absolute;
   right: 80px;
@@ -322,13 +322,13 @@ body{
   border: 5px solid;
   border-color:#113F72;
   padding: 20px;
-  background-image: url(../img/icon.png);
+  background-image: url(icon.png);
   background-size: cover;
   transition: 0.3s;
 }
 
 .item-img:hover{
-  background-image: url(../img/icon2.png);
+  background-image: url(icon2.png);
   background-color: #113F72;
   transition: 0.3s;
 }
