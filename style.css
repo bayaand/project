@@ -49,6 +49,8 @@ body{
   font-size: 20px;
   transition: 0.3s;
   font-weight: bold;
+  text-decoration: none;
+  list-style: none;
 }
 
 
